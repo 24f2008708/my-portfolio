@@ -24,7 +24,7 @@
     { "id": "prod-a845bd41-018", "name": "Standard Item 18", "category": "home", "price": 437.99, "stock": 110, "rating": 1.5 }
   ],
   "aggregations": {
-    "sports": { "count": 4, "inventoryValue": 137850.86 },
+    "sports": { "count": 4, "inventoryValue": 150203.59999999998 },
     "books": { "count": 5, "inventoryValue": 91882.65 },
     "clothing": { "count": 6, "inventoryValue": 154085.77000000002 },
     "electronics": { "count": 1, "inventoryValue": 11504.4 },
